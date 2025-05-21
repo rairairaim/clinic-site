@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>自由診療オンラインクリニック | 美容・健康・エイジングケア</title>
+  <meta name="description" content="20〜50代向けの自由診療専門オンラインクリニック。美容、AGA、ピル、ED、ダイエット、不眠などのお悩みをスマホ1つで解決。">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+</head>
+<body class="bg-white text-gray-800">
+  <!-- Header -->
+  <header class="bg-blue-600 text-white p-4 shadow-md">
+    <div class="max-w-7xl mx-auto flex justify-between items-center">
+      <h1 class="text-xl font-bold">オンライン自由診療クリニック</h1>
+      <a href="#contact" class="bg-white text-blue-600 px-4 py-2 rounded-lg font-semibold">無料相談はこちら</a>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="bg-blue-100 py-16">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-3xl font-bold mb-4">スマホで完結、あなたのかかりつけ医</h2>
+      <p class="text-lg">20〜50代のための、美容・健康・ライフスタイル最適化のための自由診療特化型クリニック</p>
+    </div>
+  </section>
+
+  <!-- Services -->
+  <section class="py-12 bg-gray-50">
+    <div class="max-w-6xl mx-auto px-4">
+      <h3 class="text-2xl font-bold mb-8 text-center">診療メニュー</h3>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="p-6 bg-white rounded-xl shadow">
+          <h4 class="text-xl font-semibold mb-2">美容・美白</h4>
+          <p>肝斑・美白・ニキビ跡ケア：トラネキサム酸・シナール・トレチノインなど</p>
+        </div>
+        <div class="p-6 bg-white rounded-xl shadow">
+          <h4 class="text-xl font-semibold mb-2">AGA・FAGA</h4>
+          <p>薄毛にお悩みの男女向け：フィナステリド・ミノキシジル・パントガールなど</p>
+        </div>
+        <div class="p-6 bg-white rounded-xl shadow">
+          <h4 class="text-xl font-semibold mb-2">ピル・生理移動</h4>
+          <p>避妊・PMS・生理調整：低用量ピル・緊急避妊薬・プラノバールなど</p>
+        </div>
+        <div class="p-6 bg-white rounded-xl shadow">
+          <h4 class="text-xl font-semibold mb-2">ED治療</h4>
+          <p>バイアグラ・レビトラ・シアリスなど生活に支障のない選択肢を提案</p>
+        </div>
+        <div class="p-6 bg-white rounded-xl shadow">
+          <h4 class="text-xl font-semibold mb-2">ダイエット・疲労回復</h4>
+          <p>GLP-1製剤、防風通聖散、ビタミン注射内服などサポートメニューあり</p>
+        </div>
+        <div class="p-6 bg-white rounded-xl shadow">
+          <h4 class="text-xl font-semibold mb-2">不眠・自律神経</h4>
+          <p>メラトニン、グリシン、漢方などで自然な睡眠サポート</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact" class="bg-blue-600 text-white py-12">
+    <div class="max-w-3xl mx-auto px-4 text-center">
+      <h3 class="text-2xl font-bold mb-4">無料LINE相談・診療予約</h3>
+      <p class="mb-6">まずはお気軽に無料LINE相談から始めませんか？</p>
+      <a href="#" class="inline-block bg-white text-blue-600 font-semibold px-6 py-3 rounded-xl shadow">LINEで相談する</a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-800 text-white py-6 text-center text-sm">
+    <p>&copy; 2025 オンライン自由診療クリニック. 無断転載禁止.</p>
+  </footer>
+</body>
+</html>
