@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>女性専用オンライン診療クリニック</title>
+  <meta name="description" content="20代から50代の女性のための、美容・健康・ライフスタイルに寄り添うオンライン診療クリニック。">
+  <style>
+    body { font-family: 'Helvetica Neue', sans-serif; margin: 0; padding: 0; background: #fffafc; color: #333; }
+    header { background-color: #f48fb1; color: white; padding: 40px 20px; text-align: center; }
+    header h1 { margin: 0; font-size: 2.2em; }
+    .lead { font-size: 1.2em; margin-top: 10px; }
+    section { padding: 40px 20px; max-width: 900px; margin: auto; }
+    .features { display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 30px; }
+    .feature-box { flex: 0 0 48%; background: #fff; margin-bottom: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px; }
+    .cta { background-color: #f8bbd0; color: #333; text-align: center; padding: 40px 20px; }
+    .cta h2 { font-size: 1.5em; margin-bottom: 20px; }
+    .cta button { background-color: #ec407a; border: none; padding: 15px 30px; color: white; font-size: 1em; border-radius: 8px; cursor: pointer; }
+    footer { text-align: center; font-size: 0.9em; color: #999; padding: 20px 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>あなたの美容と健康、オンラインでサポート</h1>
+    <p class="lead">20〜50代の女性の悩みに寄り添う、女性専門オンライン診療クリニック</p>
+  </header>
+
+  <section>
+    <h2>こんなお悩みありませんか？</h2>
+    <ul>
+      <li>生理不順やPMSを自宅から相談したい</li>
+      <li>忙しくて婦人科に行く時間がない</li>
+      <li>肌荒れ・シミ対策の美容内服薬を処方してほしい</li>
+      <li>更年期の不調を誰にも相談できない</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>選ばれる理由</h2>
+    <div class="features">
+      <div class="feature-box">
+        <h3>完全予約制・待ち時間ゼロ</h3>
+        <p>スマホで簡単予約＆診療、全国どこでも利用可能</p>
+      </div>
+      <div class="feature-box">
+        <h3>女性医師が対応</h3>
+        <p>女性特有の悩みも安心してご相談いただけます</p>
+      </div>
+      <div class="feature-box">
+        <h3>美容・ピル・婦人科に特化</h3>
+        <p>内服治療を中心に、あなたの生活に寄り添います</p>
+      </div>
+      <div class="feature-box">
+        <h3>診療後すぐに配送</h3>
+        <p>処方薬は自宅にお届け。プライバシーも安心</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta">
+    <h2>今すぐ診療予約</h2>
+    <p>スマホひとつで完結。医療がもっと身近になります。</p>
+    <button>予約する</button>
+  </section>
+
+  <footer>
+    &copy; 2025 女性専用オンライン診療クリニック
+  </footer>
+</body>
+</html>
